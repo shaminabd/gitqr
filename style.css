@@ -201,9 +201,9 @@ header .container {
 
 .text {
   color: var(--darkOne);
-  font-size: 1.1rem;
+  font-size: 1.6rem;
   margin: 1.9rem 0 2.5rem;
-  max-width: 600px;
+  max-width: 900px;
   line-height: 2.3;
 }
 
@@ -212,8 +212,8 @@ header .container {
 }
 
 .person {
-  width: 123%;
-  transform: translate(15%, 25px);
+  width: 30%;
+  transform: translate(6%, 90px);
 }
 
 .toggle-btn {
